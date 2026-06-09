@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ROCHA&fontSize=72&fontColor=ffffff&fontAlignY=45&fontStyle=bold" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,8,8&height=180&section=header&text=ROCHA&fontSize=76&fontColor=ffffff&fontAlignY=45&fontStyle=bold&stroke=333333&strokeWidth=1" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=900&color=CC2929&center=true&vCenter=true&width=560&lines=Flutter+%7C+React+Native+%7C+Android+SDK;FastAPI+%7C+Django+%7C+Node.js+%7C+Laravel;ESP32+%7C+Arduino+%7C+Raspberry+Pi+%7C+MQTT;Docker+%7C+Kubernetes+%7C+AWS+%7C+GCP+%7C+Azure;Python+%7C+TypeScript+%7C+C%2B%2B+%7C+C%23+%7C+Dart;PostgreSQL+%7C+MongoDB+%7C+Firebase+%7C+Redis)](https://git.io/typing-svg)
 
@@ -115,5 +115,5 @@ const rocha = {
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,8,8&height=80&section=footer" />
 </div>
