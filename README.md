@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:2a2a2a&height=180&section=header&text=ROCHA&fontSize=80&fontColor=ffffff&fontAlignY=48&fontFamily=Orbitron&fontStyle=700" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:2a2a2a&height=180&section=header&text=ROCHA&fontSize=80&fontColor=ffffff&fontAlignY=48&fontFamily=Orbitron&v=2" />
 
 </div>
 
