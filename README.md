@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rocha4k&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area_color=333333&area=true&hide_border=true&title_color=ffffff" />
+<img src="./metrics/activity-graph.svg" />
 
 </div>
 

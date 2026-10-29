@@ -12,6 +12,19 @@ jobs:
       contents: write
 
     steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate activity graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          node .github/scripts/activity-graph.mjs
+          git config user.name "Rocha4k"
+          git config user.email "victorrocha251102@gmail.com"
+          git add metrics/activity-graph.svg
+          git diff --cached --quiet || git commit -m "Update metrics/activity-graph.svg - [Skip GitHub Action]"
+          git push
+
       - name: Generate metrics — header
         uses: lowlighter/metrics@latest
         with:
